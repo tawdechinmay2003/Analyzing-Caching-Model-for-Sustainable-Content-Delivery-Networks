@@ -9,7 +9,7 @@ fundamental study on behavior of various caching schemes under diverse condition
 which can further help in e?iciently choosing them for specific transmissions which in
 future can put a halt to the monotonous use of single schemes for all operations and
 under usage of bandwidth leading to increase energy consumption and carbon
-emissions for CDN.
+emissions for CDN. I have used  graphical neural network in this version of the code
 
 
 This uploaded repository consists of the following files:
